@@ -126,15 +126,16 @@ The dataset contains historical XAU/USD OHLC market data with engineered analyti
 
 ### Simple View
 
-*(Insert Simple View Screenshot Here)*
+<img width="1325" height="729" alt="sample view" src="https://github.com/user-attachments/assets/8414c5a4-6ffc-4c21-b6f3-d4c21c978ab7" />
 
 ### Deep View
 
-*(Insert Deep View Screenshot Here)*
+<img width="1322" height="745" alt="deep view" src="https://github.com/user-attachments/assets/79327dbd-a3d6-4df9-933e-5339e23494f1" />
 
 ### Advanced View
 
-*(Insert Advanced View Screenshot Here)*
+<img width="1312" height="736" alt="advanced analysis" src="https://github.com/user-attachments/assets/e7af8722-d51d-4304-9099-f0a6280c8e8f" />
+
 
 
 ## Business Value
@@ -155,4 +156,5 @@ Aspiring Data Analyst | Power BI Developer | Financial Data Analytics Enthusiast
 - Python
 - DAX
 
-
+ ✨ If you found this project helpful, pleaase cosider giving it a star on gitHub. 
+ 
